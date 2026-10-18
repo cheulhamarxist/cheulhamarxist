@@ -1,7 +1,7 @@
 ## Hello!
 
-<h1 align="center">Hai! I'm Sarah</h1>
-<h3 align="center">Sponsored by antidepressants</h3>
+<h1>Hai! I'm Sarah</h1>
+<h3>Sponsored by antidepressants</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
