@@ -1,5 +1,3 @@
-## Hello!
-
 <h1>Hai! I'm Sarah</h1>
 <h3>Sponsored by antidepressants</h3>
 
