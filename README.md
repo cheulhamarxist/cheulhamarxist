@@ -1,10 +1,8 @@
-<h1>Hai! I'm Sarah</h1>
+<h2>Hai! I'm Sarah</h2>
 <h3>Sponsored by antidepressants</h3>
-
-
-
-<h3 align="left">Larp</h3>
-<p align="left">
+---
+<h3>Larp</h3>
+<p>
   Silly high schooler interested in GameDev and disturbing visual novels
 </p>
 
