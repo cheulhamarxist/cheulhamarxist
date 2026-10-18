@@ -1,7 +1,8 @@
 ## Hello!
 
 
-![cheulhamarxist's Hackatime Stats](https://hackclub.dev)
+[![cheulhamarxist's Hackatime Stats](https://hackclub.dev)](https://github-readme-stats.hackclub.dev/api/wakatime?username=60598&api_domain=hackatime.hackclub.com&theme=darcula&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8
+)
 
 
 <!--
