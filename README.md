@@ -1,5 +1,8 @@
 ## Hello!
 
+
+![My Hackatime Stats](https://hackclub.dev)
+
 <!--
 **cheulhamarxist/cheulhamarxist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
