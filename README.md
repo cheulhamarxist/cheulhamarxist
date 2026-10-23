@@ -3,6 +3,8 @@
 <p>
   Silly high schooler interested in GameDev and disturbing visual novels
 </p>
+<p>Currently really into Web Development ^^</p>
+<p>Will link my personal website soon</p>
 
 ![Hackatime Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=60598&api_domain=hackatime.hackclub.com&theme=rose&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8
 )
